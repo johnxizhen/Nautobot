@@ -1,4 +1,3 @@
----
 processes:
     - distance:
         admin_distance:
