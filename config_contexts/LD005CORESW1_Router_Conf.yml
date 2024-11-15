@@ -1,3 +1,11 @@
+_metadata:
+  name: OSPF_Config
+  weight: 1000
+  description: OSPF config for store 5
+  is_active: true
+  devices:
+    - slug: ld005coresw1
+    
 processes:
 - distance:
     admin_distance:
